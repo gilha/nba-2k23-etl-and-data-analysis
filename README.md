@@ -1,7 +1,8 @@
 # NBA 2K23 - Exploratory Data Analysis
 
 Data scraped from 2kratings.com - [you check out how I scraped it as well.](https://github.com/gilha/nba-2k23-data-scraper) \
-Explored via [Deepnote](https://deepnote.com/workspace/myspace-48fd-0eac2a92-5a71-4337-8f15-180141a776a8/project/nba2k23data-f770f9fc-15a2-479f-b902-8fcc18f53535/notebook/nba2k23_eda-229786d9262e4ee2b959350f970cf925) - it looks much better there (and is somewhat interactive as well!).
+Explored via [Deepnote](https://deepnote.com/workspace/myspace-48fd-0eac2a92-5a71-4337-8f15-180141a776a8/project/nba2k23data-f770f9fc-15a2-479f-b902-8fcc18f53535/notebook/nba2k23_eda-229786d9262e4ee2b959350f970cf925) - it looks much better there (and is somewhat interactive as well!). \
+Using SQL and Python (pandas).
 
 ### Some random facts:
 - Jazz are the tallest, heaviest, and slowest team in the NBA. It also has the lowest overall rating, making it a strong contender for another title, of the most extreme team.

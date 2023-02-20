@@ -31,7 +31,7 @@ Explored via [Deepnote](https://deepnote.com/workspace/myspace-48fd-0eac2a92-5a7
 -  Starting with the most average PGs:
 -  ![most avg pg](https://user-images.githubusercontent.com/18117093/220134902-7fbd8e45-4ced-4944-8f3c-c02325d87c5e.png)
   -  Killian Hayes is average? That's awesome!
-  -  Jamal Murray is average? I always knew something was fishy about that guy.
+  -  Jamal Murray is average? I always knew something was fishy about that dude.
 -  And the least average PGs:
 - ![least avg pg](https://user-images.githubusercontent.com/18117093/220135346-cdd8a5e6-f4f7-4bf7-8e4d-da6476cddb84.png)
   - A mix of uniquely talented and of fringely weird players (Ben, I'm looking at you).

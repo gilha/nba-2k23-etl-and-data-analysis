@@ -1,18 +1,16 @@
-# NBA 2K23 - ETL + Exploratory Data Analysis
+# NBA 2K23 - ETL and Exploratory Data Analysis
 
 * [Data scraped](https://github.com/gilha/nba-2k23-etl-and-data-analysis/blob/main/nba2k23_ETL_scraping.ipynb) from 2kratings.com
 * Explored using [Deepnote - it looks much better there!](https://deepnote.com/workspace/myspace-48fd-0eac2a92-5a71-4337-8f15-180141a776a8/project/nba2k23data-f770f9fc-15a2-479f-b902-8fcc18f53535/notebook/nba2k23_exploratory_data_analysis-229786d9262e4ee2b959350f970cf925)
 * Using `SQL`, `Python` (`pandas`, `re`, `BeautifulSoup`, `selenium`).
 
 ### Some random facts:
+- Bucks, Suns, Celtics are in the top of most success-predicting metrics (and Spurs, Rockets, Hornets, Pistons are at the bottom).
 - Jazz are the tallest, heaviest, and slowest team in the NBA. It also has the lowest overall rating.
 - Thunder are both 3nd tallest and 2nd leanest out of all 30 teams (i.e. looking for that next KD/Giannis/unicorn).
-- Warriors are on average the shortest team.
 - Grizzlies are the #1 hustle team, by a fairly large margin.
-- Mavericks are 27th (4rd lowest) in terms of their average overall rating. [update April 23 - no wonder they did not make it to the playoff!]
 
-- Bucks, Suns, Celtics are in the top of most success-predicting metrics (and Spurs, Hornets, Pistons, Rockets are at the bottom).
-- Bucks, Warriors, Cavaliers are highest IQ team (Spurs, Rockets, Jazz are lowest).
+- Mavericks are 27th (4rd lowest) in terms of their average overall rating. [update April 23 - no wonder they did not make it to the playoff!]
 
 - Warriors, Lakers, 76ers are best 3pt shooters (this beautifully reveales the flaw of averages analysis - having a bunch of slightly-above-average shooters such as the case with the Lakers, doesn't translate to high quality 3pt shooting in real life) (Knicks, Hornets, Clippers are the worst on average - again, it's hilarious that the Clippers, a better 3pt shooting team than the Lakers, are ranked at the bottom!)
   - This metric might be skewed by players who aren't really shooting 3s - i.e. having a 25 3pt shooting ratings vs. a 45 3pt shooting ratings both roughly translates to "not a 3pt shooter", but will impact the data differently. 
@@ -26,6 +24,8 @@
 -  ### And the most average NBA players are...:
 -  ![most avg nba players 2k2023](https://user-images.githubusercontent.com/18117093/220134252-38db22a6-e303-4cc5-8c42-6280fdd95f33.png)
   -  (Yes, the Polish dude that shoots one-handed fts is the most average of 'em all.)
+
+
 -  ## We can also be a bit more sophisticated than that, and test how the average player looks like for each position!
 -  ### Starting with the most average PGs:
 -  ![most avg pg](https://user-images.githubusercontent.com/18117093/220134902-7fbd8e45-4ced-4944-8f3c-c02325d87c5e.png)

@@ -83,7 +83,7 @@
 ### Even more random facts:
 * Players with the least accumulative game IQ:
 * ![lowest iq nba2k23](https://user-images.githubusercontent.com/18117093/220132328-6692b613-a6f6-40e5-a34d-1b40a4751aa5.png)
-* Each draft year approximately dwindles by an exponantial factor:
+* Each draft class approximately dwindles by an exponantial factor:
 * ![Screenshot 2023-04-23 211556](https://user-images.githubusercontent.com/18117093/234047188-f1eeb51f-61b3-4afb-8122-65b16ec5d23e.png)
 * No real difference in average overall rating among different heights:
 * ![Screenshot 2023-04-23 212104](https://user-images.githubusercontent.com/18117093/234047261-34efba1b-44bb-4baf-a56c-e5c643f18e4b.png)

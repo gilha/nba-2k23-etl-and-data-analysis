@@ -1,8 +1,8 @@
 # NBA 2K23 - ETL and Exploratory Data Analysis
 
 * As a basketball enthusiast and a passionate data analyst, I took it upon myself to scrape the data for this popular game (it wasn't available online), and conduct an in-depth exploratory analysis using SQL and Python. I utilized various libraries including pandas, re, BeautifulSoup, and selenium to gather and clean the data, and perform various statistical analyses on it.
-* Data scraped from 2kratings.com - [link to code](https://github.com/gilha/nba-2k23-etl-and-data-analysis/blob/main/nba2k23_ETL_scraping.ipynb)
-* Explored using Deepnote - [it looks much better there, and it's interactive as well](https://deepnote.com/workspace/myspace-48fd-0eac2a92-5a71-4337-8f15-180141a776a8/project/nba2k23data-f770f9fc-15a2-479f-b902-8fcc18f53535/notebook/nba2k23_exploratory_data_analysis-229786d9262e4ee2b959350f970cf925)
+* Data [scraped](https://github.com/gilha/nba-2k23-etl-and-data-analysis/blob/main/nba2k23_ETL_scraping.ipynb) from 2kratings.com
+* Explored using [Deepnote](https://deepnote.com/workspace/myspace-48fd-0eac2a92-5a71-4337-8f15-180141a776a8/project/nba2k23data-f770f9fc-15a2-479f-b902-8fcc18f53535/notebook/nba2k23_exploratory_data_analysis-229786d9262e4ee2b959350f970cf925)
 * Using `SQL`, `Python` (`pandas`, `re`, `BeautifulSoup`, `selenium`)
 * Gil Harari - [LinkedIn](https://www.linkedin.com/in/gilharari/); [GitHub](https://github.com/gilha); [Mail](mailto:gil1996@gmail.com); Phone: +972-52-744-1568
 

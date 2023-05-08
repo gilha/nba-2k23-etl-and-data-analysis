@@ -33,7 +33,7 @@
 * Giannis Antetokounmpo is the only player with all 16 **DEF/REB** badges
 * The player with the most badges, below an overall rating of 80, is Kyle Lowry
 * Celtics are the team with the highest average of badges per player (followed by Suns, Bucks, Warriors). Spurs are with the lowest average (followed by Rockets, Jazz, Thunder)
-* PGs have a much higher average of badges per player, which makes sense as they are the major holders of "playmaking" badges, while the other badges with are less position-specific
+* PGs have a much higher average of badges per player, which makes sense as they are the major holders of "playmaking" badges, while the other badges are not really position-specific
 * ![Screenshot 2023-04-23 211649](https://user-images.githubusercontent.com/18117093/234043985-755d7e85-aa1c-40ef-bc48-51cad6a9944e.png)
 * Indeed, we can perceive above that the majority of playmaking badges are associated with PGs.
 * We can also see that DEF/REB is positively correlated with bigger positions - let us quickly demonstrate that indeed height is correlated with primary playing positions:
